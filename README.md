@@ -1,2 +1,2 @@
 # jeu_fps
-Projet d'un jeu vidéo FPS fait sur Unity
+Ce projet consiste en le développement de deux jeux vidéo distincts : un FPS réalisé sur Unity et un jeu de plateforme 2D. Le jeu FPS se concentrera sur des mécaniques de tir immersives et des niveaux captivants, tandis que le jeu de plateforme 2D mettra en avant des défis de saut et de progression à travers des environnements variés. L'objectif est de créer des expériences de jeu engageantes et divertissantes pour les joueurs, en exploitant les fonctionnalités et les outils offerts par Unity pour chaque genre de jeu.
